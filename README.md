@@ -1,8 +1,6 @@
-
-
 #  <h2><b> 📖 Restaurant Landing Page with Dialogflow Integration (React)</b></h2>
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -13,6 +11,7 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
+- [📚 Docs](#docs)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -20,9 +19,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 🍽️ Restaurant Landing Page with Dialogflow <a name="about-project"></a>
+## 🍽️ Restaurant Landing Page with Dialogflow <a name="about-project"></a>
 
 **Restaurant Landing Page with Dialogflow** is a web-based application that showcases a restaurant's landing page with AI-powered chatbot functionality. It integrates Google Dialogflow with React to handle customer queries efficiently.
 
@@ -37,16 +34,6 @@
     <li><a href="https://cloud.google.com/dialogflow">Google Dialogflow</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-</details>
-
-<details>
-<summary>Database</summary>
-</details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -84,7 +71,10 @@ Install this project with:
 
 ```sh
   npm install
-  # OR
+  ```
+ # OR
+
+  ```sh
   yarn install
 ```
 
@@ -106,7 +96,16 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+## 📚 Docs <a name="docs"></a>
+
+For official documentation and resources, check the links below:
+
+- **[Dialogflow ES Documentation](https://cloud.google.com/dialogflow/es/docs)**
+- **[Dialogflow CX Documentation](https://cloud.google.com/dialogflow/cx/docs)**
+
+These resources will help you understand how to set up intents, entities, and contexts, as well as how to integrate Dialogflow into your chatbot for enhanced user interactions.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -118,8 +117,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Voice Recognition Support**
@@ -127,8 +124,6 @@ You can deploy this project using:
 - **Enhanced AI Learning Capabilities**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -138,23 +133,17 @@ Feel free to check the [issues page](https://github.com/JoyTaribagshaw/Dialogflo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please give it a ⭐.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgements <a name="acknowledgements"></a>
 
 I would like to thank Google Cloud for providing the Dialogflow API and all resources that made this project possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
